@@ -1,10 +1,12 @@
-# Camp_Fire_PM2.5_Assessment_California
 
-Wildfire Air Quality Impact Analysis - Camp Fire PM2.5 Assessment in California, 2018
-Author: Amna Rauf 
-Course: ENV 859 - Geospatial Data Analytics
-Date: December 10, 2025
-Instructor: John Fay
+## Camp Fire PM2.5 Assessment in California, 2018
+
+| | |
+|---|---|
+| **Author** | Amna Rauf |
+| **Course** | ENV 859 — Geospatial Data Analytics |
+| **Instructor** | John Fay |
+| **Date** | December 10, 2025 |
 
 Project Overview: This project analyzes how the 2018 Camp Fire affected air quality in Northern California by comparing PM2.5 concentrations at EPA monitoring stations before and after the fire. The analysis uses a 100km buffer around the fire perimeter to identify affected monitors and includes a reusable ModelBuilder tool.
 
